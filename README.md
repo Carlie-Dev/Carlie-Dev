@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Carlie-Dev
 - 👀 I’m interested in story telling
-- 🌱 I’m currently learning PHP
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on {Nothing right now}
 - 📫 How to reach me: carliepeters100@gmail.com
 - 😄 Pronouns: she/her
